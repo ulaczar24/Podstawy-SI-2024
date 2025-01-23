@@ -16,7 +16,7 @@ Zadanie 4 działa na bardzo podobnej zasadzie jak zadanie 2.
 W zadaniu 5 nie zrobiłam żadnych dodatkowych formuł i reguł, prolog poprostu znajduje polecane przez danego użytkownika książki.
 
 
-Z rzeczy dodatkowych to w pliku PythonSlowniki14_11 mam zrobione zadania wstępne ze słowników w Pythonie. 
+Z rzeczy dodatkowych to w pliku PythonSlowniki14_11 mam zrobione zadania wstępne ze słowników w Pythonie, oraz wstawiam zrobione przeze mnie cwiczenia wstępne z Prologa. 
 
 Byłabym bardzo wdzięczna za ocenę 4,5 (lub 5, byłoby jeszcze lepiej). 
 I jako że studuje drugi kierunek, poza Kognitywistyką, jeszcze na Politechnice kierunek Sztuczna Inteligencja w Biznesie, to może to będzie jakaś wartość dodana :-). 
